@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ly-tab": "^2.1.2",
+    "mint-ui": "^2.2.13"
+  }
+}
